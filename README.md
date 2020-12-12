@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> |MR.ERROR|</h1> <br>
-<h1 align="center"> |MR.ERROR|</h2>
+<h1 align="center"> |SMBF|</h2>
 <p align="center">
       A new international facebook account cracker tool for termux users
 </p>
@@ -27,8 +27,8 @@ $ git clone https://github.com/Azim-vau/smbf.git
 $ cd smbf
 $ python2 smbf.py
 ```
-• TOOL USER : (knock me on facebook)</br>
-• TOOL PASS : (knock me on facebook</br>
+• TOOL USER : (none)</br>
+• TOOL PASS : (none </br>
  [![Facebook](https://img.shields.io/badge/Facebook-AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/100022097600640)</br>
 <b>Access Token Generator Apk</b><br>
  <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">DOWNLOAD</a>
